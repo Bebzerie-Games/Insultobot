@@ -1,5 +1,2 @@
 discord
-random
-asyncio
-os
 python-dotenv
