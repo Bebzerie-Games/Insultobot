@@ -1,0 +1,7 @@
+discord
+discord.ext
+random
+asyncio
+os
+dotenv
+load_dotenv
