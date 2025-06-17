@@ -27,7 +27,7 @@ LISTE_DE_MOTS_UNIQUE = [
     "salope", "salopes", "sodomie", "sperme", "suce", "suce-bite", "suce-bites",
     "suce-moi", "tête de bite", "tête de noeud", "trou du cul", "trouduc",
     "trouducs", "trous du cul", "viol", "violée", "violer", "violeur", "viols",
-    "youpin",
+    "youpin", "hippie", "luka", "https://media.discordapp.net/attachments/1021732643928297493/1210922190849966090/cm-chat-media-video-18542cf93-c4ad-4256-8e47-cfba9f80ef7b735500.gif", "nigga",
 ]
 
 CANAL_ID_POUR_MESSAGES_AUTO = 1031638956762222662 
